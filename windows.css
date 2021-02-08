@@ -1,0 +1,41 @@
+﻿body
+{
+	font-family: Verdana;
+	background-color: #E2E2E2;
+}
+a:link
+{
+	color: Highlight;
+}
+a:active
+{
+	color: GrayText;
+}
+a:visited
+{
+	color: HighlightText;
+}
+td.head
+{
+	width: 100%;
+	text-align: center;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	background-color: ActiveCaption;
+	color: CaptionText;
+	font-size: x-large;
+	font-weight: bold;
+}
+td.data
+{
+	text-align: center;
+	background-color: Window;
+}
+td.selected
+{
+	width: 33%;
+	text-align: center;
+	background-color: ActiveCaption;
+	color: CaptionText;
+	font-weight: bold;
+}

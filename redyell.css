@@ -1,0 +1,76 @@
+﻿body
+{
+	font-family: Verdana;
+	background-color: #FFFFBB;
+}
+hr
+{
+	border: 1px solid #000000;
+}
+a:link
+{
+	color: Highlight;
+}
+a:active
+{
+	color: GrayText;
+}
+a:visited
+{
+	color: HighlightText;
+}
+table.maintable
+{
+	width: 100%;
+	border-collapse: collapse;
+}
+table.subtable
+{
+	width: 100%;
+}
+table.links
+{
+	width: 50%;
+}
+td.maincolumn
+{
+	width: 30%;
+	vertical-align: top;
+}
+td.space
+{
+	width: 5%
+}
+td.head
+{
+	width: 100%;
+	text-align: center;
+	background-color: #993300;
+	color: #FFFF00;
+	font-size: x-large;
+	font-weight: bold;
+}
+td.data
+{
+	text-align: center;
+	background-color: #FFFFFF;
+	padding-bottom: 10px;
+}
+td.selected
+{
+	width: 33%;
+	text-align: center;
+	background-color: #993300;
+	color: #FFFF00;
+	font-weight: bold;
+	padding: 5px;
+}
+td.link
+{
+	border: 1px solid #000000;
+	width: 33%;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-weight: bold;
+	padding: 5px;
+}

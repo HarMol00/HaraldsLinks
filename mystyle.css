@@ -1,0 +1,87 @@
+﻿body
+{
+	--main-bg-color: black;
+	--tbl-bg-color: #202020;
+	
+	font-family: Verdana;
+	background-color: var(--main-bg-color);
+}
+hr
+{
+	border: 1px solid midnightblue;
+}
+a:link
+{
+	color: white;
+}
+a:active
+{
+	color: white;
+}
+a:visited
+{
+	color: white;
+}
+table.maintable
+{
+	width: 100%;
+	border-collapse: collapse;
+}
+table.subtable
+{
+	width: 100%;
+	border-collapse: collapse;
+}
+table.links
+{
+	width: 50%;
+}
+td.maincolumn
+{
+	width: 32%;
+	vertical-align: top;
+}
+td.space
+{
+	width: 2%
+}
+td.head
+{
+	width: 100%;
+	text-align: center;
+	border: 1px solid midnightblue;
+	background-color: midnightblue;
+	color: yellow;
+	font-size: large;
+	font-weight: bold;
+	padding: 5px;
+}
+td.data
+{
+	border: 1px solid midnightblue;
+	text-align: center;
+	background-color: var(--tbl-bg-color);
+	padding-bottom: 5px;
+}
+td.selected
+{
+	width: 33%;
+	text-align: center;
+	background-color: midnightblue;
+	color: yellow;
+	font-weight: bold;
+	padding: 5px;
+}
+td.link
+{
+	border: 1px solid midnightblue;
+	width: 33%;
+	text-align: center;
+	background-color: var(--tbl-bg-color);
+	font-weight: bold;
+	padding: 5px;
+}
+td.margin
+{
+	padding-bottom: 5px;
+}
