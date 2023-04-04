@@ -17,7 +17,7 @@
       <DecoderType>ZIMO MX61</DecoderType>
       <Address>2050</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2024-02-18T00:00:00+01:00</StartDate>
+      <StartDate>2021-02-18T00:00:00+01:00</StartDate>
       <LastDate>2020-01-11T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -331,7 +331,7 @@
       <Address>1110</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-02-06T00:00:00</StartDate>
-      <LastDate>2018-09-02T00:00:00</LastDate>
+      <LastDate>2023-04-04T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>19</Index>
