@@ -17,7 +17,7 @@
       <DecoderType>ZIMO MX61</DecoderType>
       <Address>2050</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-02-18T00:00:00+01:00</StartDate>
+      <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2020-01-11T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -56,7 +56,7 @@
       <DecoderType>ZIMO MX621</DecoderType>
       <Address>7</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-09-16T00:00:00</StartDate>
+      <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -185,7 +185,7 @@
       <Address>52</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-12-19T00:00:00</StartDate>
-      <LastDate>2023-04-03T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>11</Index>
@@ -331,7 +331,7 @@
       <Address>1110</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-02-06T00:00:00</StartDate>
-      <LastDate>2023-04-04T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>19</Index>
@@ -419,7 +419,7 @@
       <Address>8044</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-01-05T00:00:00</StartDate>
-      <LastDate>2023-04-03T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>24</Index>
@@ -1881,7 +1881,7 @@
       <DecoderType>Lenz LE077XF</DecoderType>
       <Address>9060</Address>
       <StartDate>2021-12-19T00:00:00</StartDate>
-      <LastDate>2023-04-03T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>110</Index>
@@ -2227,7 +2227,7 @@
       <DecoderType>Lenz LE130</DecoderType>
       <Address>1042</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-09-16T00:00:00</StartDate>
+      <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -4478,7 +4478,7 @@
       <DecoderType>Lenz Standard</DecoderType>
       <Address>1080</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-09-16T00:00:00</StartDate>
+      <StartDate>2023-03-19T00:00:00+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -6757,7 +6757,7 @@
       <DecoderType>ZIMO MX61R</DecoderType>
       <Address>1116</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-03-11T00:00:00</StartDate>
+      <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2019-08-04T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -6831,7 +6831,7 @@
       <Address>5269</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
-      <LastDate>2023-04-03T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-19T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>395</Index>
@@ -9909,7 +9909,7 @@
       <Address>2060</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-12-19T00:00:00</StartDate>
-      <LastDate>2023-04-03T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>569</Index>
@@ -10572,7 +10572,7 @@
       <Address>4060</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-12-19T00:00:00</StartDate>
-      <LastDate>2023-04-03T00:00:00+02:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>607</Index>
@@ -11079,7 +11079,7 @@
       <DecoderType>ZIMO MX630P16</DecoderType>
       <Address>1041</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-11-25T00:00:00</StartDate>
+      <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -11968,6 +11968,76 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
     </Vehicle>
+    <Vehicle>
+      <Index>684</Index>
+      <Number>2050.08</Number>
+      <Category>+V</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>204</Length>
+      <Manufacturer>Rivarossi</Manufacturer>
+      <ItemNumber>HR2816</ItemNumber>
+      <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
+      <Address>9050</Address>
+      <Functions>Lichtwechsel</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+    </Vehicle>
+    <Vehicle>
+      <Index>685</Index>
+      <Number>4020.15</Number>
+      <Category>B4hET</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>270</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>40950</ItemNumber>
+      <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
+      <Address>4020</Address>
+      <Functions>Lichtwechsel, Fernlicht, Innenbeleuchtung, Zugzielanzeige</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+    </Vehicle>
+    <Vehicle>
+      <Index>686</Index>
+      <Number>7020.15</Number>
+      <Category>B4hTI</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>265</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>40950</ItemNumber>
+      <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+    </Vehicle>
+    <Vehicle>
+      <Index>687</Index>
+      <Number>6020.15</Number>
+      <Category>B4hES</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>270</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>40950</ItemNumber>
+      <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -11990,7 +12060,7 @@
       <Index>3</Index>
       <Name>Stadtbahnwagen Brawa</Name>
       <Category>Personenzug</Category>
-      <StartDate>2017-07-01T00:00:00</StartDate>
+      <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-01-06T00:00:00</LastDate>
       <Vehicles>602;603;604;605</Vehicles>
     </Train>
@@ -12046,7 +12116,7 @@
       <Index>10</Index>
       <Name>Schnellzug gn 1</Name>
       <Category>Schnellzug</Category>
-      <StartDate>2017-07-01T00:00:00</StartDate>
+      <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
       <Vehicles>136;137;193;194;200;201;332;333;334;365</Vehicles>
     </Train>
@@ -12076,11 +12146,11 @@
     </Train>
     <Train>
       <Index>14</Index>
-      <Name>Güterzug</Name>
+      <Name>Güterzug 1</Name>
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
-      <Vehicles>32;99;112;125;153;157;162;170;230;293;385;391;442;445;481;482;499;505;542</Vehicles>
+      <Vehicles>32;99;112;125;153;157;162;170;230;293;385;391;442;481;482;499;505;542</Vehicles>
     </Train>
     <Train>
       <Index>15</Index>
@@ -12111,7 +12181,7 @@
       <Name>Schlieren gn</Name>
       <Category>Eilzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
-      <LastDate>2020-07-16T00:00:00</LastDate>
+      <LastDate>2023-03-19T00:00:00+01:00</LastDate>
       <Vehicles>93;94;95;96</Vehicles>
     </Train>
     <Train>
@@ -12119,7 +12189,7 @@
       <Name>TEE Mediolanum</Name>
       <Category>Schnellzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
-      <LastDate>2019-12-29T00:00:00</LastDate>
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <Vehicles>624;625;626;627;628</Vehicles>
     </Train>
     <Train>
@@ -12213,9 +12283,9 @@
       <Index>31</Index>
       <Name>Altenburger</Name>
       <Category>Eilzug</Category>
-      <StartDate>2020-04-05T00:00:00</StartDate>
+      <StartDate>2023-03-19T00:00:00+01:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <Vehicles>100;281;440;446;489;490</Vehicles>
+      <Vehicles>100;281;440;446;489;490;681;682</Vehicles>
     </Train>
     <Train>
       <Index>32</Index>
@@ -12294,7 +12364,7 @@
       <Name>Württemberger</Name>
       <Category>Personenzug</Category>
       <StartDate>2022-01-05T00:00:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <Vehicles>360;381;382</Vehicles>
     </Train>
     <Train>
@@ -12416,6 +12486,14 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
       <Vehicles>219;278;282;283;284;285;289;290;330;347;348;356;393</Vehicles>
+    </Train>
+    <Train>
+      <Index>57</Index>
+      <Name>4020</Name>
+      <Category>Pendelzug H</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <Vehicles>686;687</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
